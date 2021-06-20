@@ -1,2 +1,2 @@
-# fenix-chatroom
-基于netty实现多人聊天功能
+# fenix-npush
+基于netty实现推送系统
